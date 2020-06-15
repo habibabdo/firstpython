@@ -1,0 +1,13 @@
+
+from array import *
+
+arr= array('i',[5,9,8])
+#vals.reverse()
+
+i=0
+for i in arr:
+    print(str(i))
+
+print()
+
+print (str(arr))
