@@ -1,0 +1,11 @@
+Habib Elias Abdo
+Tarshiha
+A class is usually modeled after a Noun. Classes are things.
+So we might make a class that represents a Person, House, Vehicle,
+or Animal. These are all common examples to use when learning about classes.
+For us, we will create a Vehicle class. What information would we associate with a
+vehicle, and what behavior would it have? A vehicle may have a type, brand, model and
+so on. This type of information is stored in variables called attributes. These things also
+have behaviors. A Vehicle can drive, stop, honk its horn, and so on. Behaviors are
+contained in functions and a function that is part of a class is called a method.
+
